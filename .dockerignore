@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.git/
+.gitignore
+*.pkl
+artifacts/
+logs/
+catboost_info/
+.ebextensions/
+*.ipynb
+notebooks/
+project_notes/
+.DS_Store
